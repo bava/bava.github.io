@@ -4,27 +4,16 @@ body {
 }
 
 .post {
-		padding: 20px 0;
-	}
+	padding: 15px 0;
+}
 
-	.title > h2 {
-		line-height: 1em;
-        margin: 0 0 20px;
-	}
+.title > h2 {
+	line-height: 1em;
+     margin: 0 0 20px;
+     color: #2D6CA2;
+}
 
-	.title > h2 > a {
-		vertical-align: top;
-	}
-
-	.thumbnails,
-	.thumbnails > .thumbnail {
-		margin-left: 0;
-	}
-    
-    .entry img {
-        margin: 30px 0;    
-    }
-    
-    .author, .date, .tags {
-        margin-bottom: 1em;    
-    }
+.date {
+    margin-bottom: 1em;  
+    color: #2D6CA2;  
+ }
